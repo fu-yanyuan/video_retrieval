@@ -36,7 +36,11 @@ $ CUDA_VISIBLE_DEVICES=4 python3 main/test_video.py -cfg configs/v_cars.yaml
 ### query  
 ![query](image_3706_q.jpg#pic_center)  
 ### top 5 results  
-![image](55.png) ![image](56.png) ![image](70.png) ![image](72.png) ![image](73.png)
+![image](55.png) ![image](56.png) ![image](70.png) ![image](72.png) ![image](73.png)  
+### query  
+![query](image_2812_q.jpg#pic_center)  
+### top 5 results  
+![image](16.png) ![image](17.png) ![image](61.png) ![image](144.png) ![image](145.png)
 
 
 
