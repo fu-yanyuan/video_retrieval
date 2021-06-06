@@ -21,7 +21,7 @@ v_cars
 ```  
 
 ## use PyRetri to do the single frame index  
-```
+```shell
 # make data json
 $ python3 main/make_data_json.py -d data/v_cars/gallery/ -sp data_jsons/v_cars_gallery.json -t general
 $ python3 main/make_data_json.py -d data/v_cars/query/ -sp data_jsons/v_cars_query.json -t general
