@@ -13,7 +13,7 @@ v_cars
 ├── gallery
 │    └── honda
 │         ├──xxx.jpg
-|         └──···
+│         └──···
 └── query
      └── honda
           ├──xxx.jpg
