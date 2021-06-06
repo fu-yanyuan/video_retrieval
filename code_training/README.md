@@ -31,9 +31,12 @@ $ CUDA_VISIBLE_DEVICES=4 python3 main/extract_feature.py -dj data_jsons/v_cars_q
 # single image index
 $ CUDA_VISIBLE_DEVICES=4 python3 main/test_video.py -cfg configs/v_cars.yaml
 ```   
-## results  
-1. [animals.mp4]((https://www.youtube.com/watch?v=5adoTkOnBVw))
-2. [v_cars.mp4](https://www.youtube.com/watch?v=q5PPNZiu52w)
+## experiment results  
+[v_cars.mp4](https://www.youtube.com/watch?v=q5PPNZiu52w)  
+### query  
+![query](image_3706_q.jpg#pic_center)  
+### top 5 results  
+![image](55.png) ![image](56.png) ![image](70.png) ![image](72.png) ![image](73.png)
 
 
 
