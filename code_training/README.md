@@ -6,7 +6,7 @@ use [PyRetri](https://github.com/PyRetri/PyRetri) to search one frame from a vid
 ## use opencv to extract frames  
 [extract_frames_v2.py](https://github.com/fu-yanyuan/video_retrieval/blob/main/code_training/extract_frames_v2.py)  
 this will save the frames(1 fps) into the *gallery* as required:  
-and i press 'k' to save the frames that i want to search in the future into *query*  
+and press 's' to save the key frames that i want to search in the future into *query*  
 ```shell
 # dataset need to be splited 
 v_cars
