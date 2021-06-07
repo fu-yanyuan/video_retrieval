@@ -34,13 +34,20 @@ $ CUDA_VISIBLE_DEVICES=4 python3 main/test_video.py -cfg configs/v_cars.yaml
 ## experiment results  
 [v_cars.mp4](https://www.youtube.com/watch?v=q5PPNZiu52w)  
 ### query  
-![query](image_3706_q.jpg#pic_center)  
+<img src="image_3706_q.jpg" width="224"/>  
+
 ### top 5 results  
-![image](55.png) ![image](56.png) ![image](70.png) ![image](72.png) ![image](73.png)  
+
+<img src="55.png" width="224"/><img src="56.png" width="224">  
+<img src="70.png" width="224"/><img src="72.png" width="224"/><img src="73.png" width="224"/>  
+
 ### query  
-![query](image_2812_q.jpg#pic_center)  
+<img src="image_2812_q.jpg" width="224"/>
+
 ### top 5 results  
-![image](16.png) ![image](17.png) ![image](61.png) ![image](144.png) ![image](145.png)
+<img src="16.png" width="224"/><img src="17.png" width="224"/>  
+<img src="61.png" width="224"/>   <img src="144.png" width="224"/><img src="145.png" width="224"/>  
+
 
 
 
