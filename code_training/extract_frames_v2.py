@@ -1,4 +1,3 @@
-# refer to : https://answers.opencv.org/question/62029/extract-a-frame-every-second-in-python/
 import cv2 as cv
 
 # videoName = "Honda_NSX" 
@@ -28,7 +27,7 @@ while cap.isOpened():
         fileName = imagesFolder_gallery + "/image_" + str(int(frameID/round(frameRate))) + ".jpg"
         cv.imwrite(fileName, frame)
 
-    # quit and save for query
+    # quit or save for query
     k = cv.waitKey(20)
     if k == ord('q'):
         break
